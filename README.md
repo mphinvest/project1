@@ -20,8 +20,10 @@ Bugs finden und am Ende gemeinsam feiern.
 7. **Review** – Juno prüft den Pull Request und gibt frei.
 8. **Fertig** – Abschlussrunde mit Konfetti.
 
-Fliegende Briefe zeigen Nachrichten zwischen Agenten, Denkblasen zeigen, woran
-jemand gerade arbeitet. Die Inhalte passen sich der Aufgabe an (Website, Spiel,
+Datenpakete zeigen Nachrichten zwischen Agenten, HUD-Callouts zeigen, woran
+jemand gerade arbeitet. Unter dem Live-Feed laufen Kennzahlen und eine
+Aktivitäts-Zeitleiste mit (wer arbeitet wann, wer schickt wem was). Ein
+Fokus-Panel zeigt die ausgewählte Einheit als Live-Hologramm mit Statistiken. Die Inhalte passen sich der Aufgabe an (Website, Spiel,
 Datenanalyse, API oder allgemein).
 
 Aktuell ist der Ablauf simuliert. Als nächster Schritt lassen sich die Agenten
