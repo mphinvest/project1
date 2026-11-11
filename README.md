@@ -1,6 +1,6 @@
 # Agent Office
 
-Ein Pixel-Büro, in dem sechs KI-Agenten als kleine Figuren zusammenarbeiten:
+Ein holografischer Leitstand im HUD-Stil, in dem sechs KI-Agenten als kleine Figuren zusammenarbeiten:
 Lead, Researcher, Designerin, Coder, Tester und Reviewerin. Gib eine Aufgabe ein
 und schau zu, wie sie planen, sich Nachrichten schicken, Ergebnisse übergeben,
 Bugs finden und am Ende gemeinsam feiern.
